@@ -34,7 +34,5 @@ This project analyzes product reviews and detects potentially fake or suspicious
 | U007 | P002 | 5 | 8 |
 
 ## 🧩 Author
-**Prakhar Mishra**  
-📍 Computer Science Student at BMS Institute of Technology, Bangalore  
-📧 [your-email-here@gmail.com]  
+Kriti Tiwari 
 ⭐ *Feel free to fork or star this project if you like it!*
